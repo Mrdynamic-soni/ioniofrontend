@@ -36,3 +36,66 @@
     transform: rotate(360deg);
   }
 }
+
+.inputwidth{
+  width: 361px;
+  height: 42px;
+  border: none;
+}
+
+
+.bg{
+  background-color: rgb(218, 228, 228);
+}
+
+.bgr1{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.txt{
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+.txt2{
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.align{
+  margin-top: 50px;
+  /* width: 450px; */
+  /* margin-left: 100px; */
+}
+.btncolor{
+  background: linear-gradient(180deg, #E93B77 0%, #DA1F63 100%);
+}
+.sighnupbtn{
+  width: 200px;
+}
+.loginanchor{
+  color: #E93B77;
+  text-decoration: none;
+  font-weight: 700;
+
+}
+.profile{
+  color: #000000;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: 10px;
+  font-weight: 400;
+}
+.sidepanel{
+  height: 1048px;
+  background: linear-gradient(180deg, #3E3D45 0%, #202020 100%);
+
+}
+.upload{
+  height: 300px;
+  width: 30%;
+  background-color: #d0cfd6;
+}
+.line{
+  color: white;
+  font-weight: 600;
+}
